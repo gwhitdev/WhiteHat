@@ -1,0 +1,20 @@
+Threat > A potential cause of an unwanted incident, which may result in harm to a system or organisation (IOS/IEC 27000).
+Vulnerability > A weakness of an asset or control that can be exploited by one or more htreats (ISO/IEC 27000).
+Risk > The effect of uncertainty on objectives (ISO/IEC 27000).
+Impact > The result of an information security incident, caused by a threat, which affects assets (ISO/IEC 13335).
+
+ACTIVITY 1.1
+3 Threats
+	1. Destruction of paper-based records
+	2. Unauthorised access to paper-based records and unauthorised access to the website server infrastructure
+	3. Installation of malicious code or software
+
+3 Vulnerabilities
+	1. Inadequate or irregular backup
+	2. Inadequate security awarness
+	3. Uncontrolled use of information systems or a lack of systems for identification and authentication
+
+3 Risks
+	1. The risk of data being stolen is high.
+	2. The risk of information systems being penetrated by someone with malicious, or even curious, intent is high.
+	3. The risk of people having access to information that they should not have is high.
