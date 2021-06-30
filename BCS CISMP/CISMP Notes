@@ -1,1 +1,10 @@
-Notes
+Information Security
+  > Preservation of confidentiality, integrity and availability in addition, other properties such as authenticity, accountability, 
+  non-repudiation and realiability can also be involved (ISO/IEC 19092).
+
+Information Assurance (IA)
+	> The confidence that information systems will protect the information they carry and will function as they need to, when they need to, under the control of legitimate users (UK Cabinet Office).
+	
+The full range of IA includes: digital, analogue and physical forms of information - in transit and at rest.
+
+
