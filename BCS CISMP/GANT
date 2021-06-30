@@ -5,14 +5,14 @@ Impact > The result of an information security incident, caused by a threat, whi
 
 ACTIVITY 1.1
 3 Threats
-	1. Destruction of paper-based records
-	2. Unauthorised access to paper-based records and unauthorised access to the website server infrastructure
-	3. Installation of malicious code or software
+	1. Information about members may be accessed by those unauthorised to do so.
+	2. Conservation information may be used by those who do nit agree with the conservation goal, or who vested interests in the opposite.
+	3. Installation of malicious code or software on the website server may compromise the website and cause unofficial messages to be displayed.
 
 3 Vulnerabilities
-	1. Inadequate or irregular backup
-	2. Inadequate security awarness
-	3. Uncontrolled use of information systems or a lack of systems for identification and authentication
+	1. Records held in various unreliable ways. 
+	2. Inadequate security awarness allowing old technologies to continue with no or little monitoring and maintenance.
+	3. A lack of systems for identification, authentication, authorisation on the network and application layers.
 
 3 Risks
 	1. The risk of data being stolen is high.
