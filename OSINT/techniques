@@ -4,3 +4,5 @@ Look for robots.txt -> if present, what is the content?
 
 Tips:
 site: *** filetype:pdf
+allintext:password filetype:txt after:2018
+filetype:xls inurl:"email.xls"
