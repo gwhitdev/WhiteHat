@@ -1,11 +1,6 @@
-Google key operators:
+https://moz.com/learn/seo/search-operators
 
-"-" Avoids pages that match a term
-"+" Requires a term to match exactly
-"" Allows exact phrase search
-* Wildcard in URL: search for a text string in a URL
-Intitle - Search term in the title
-Intext - Search a document/page body
-Filetype - Finds files of a particular format
-Site: - search a specific domain
-Inurl: - search a term in a URL
+Look for robots.txt -> if present, what is the content?
+
+Tips:
+site: *** filetype:pdf
